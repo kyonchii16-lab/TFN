@@ -1,0 +1,3 @@
+torch
+e3nn
+numpy
